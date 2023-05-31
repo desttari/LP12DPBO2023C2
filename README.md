@@ -9,4 +9,4 @@ Saya Destira Lestari Saraswati dengan NIM 2100506 mengerjakan LP 12 Praktikum DP
 Ubah LP7 menggunakan MVP atau MVVM
 
 ## Alasan
-Saya memilih menggunakan menggunakan arsitektur MVP karena File LP7 yang di ubah merupakan project kecil, lalu untuk presenter hanya memngelola satu view. Karene  filenya sedikit jadi saya pikir lebih mudah menggunakan arsitektur MVP gak usah mikirin ViewModelnya gimana. Satu lagi karena saya ingin mencoba menggunakan struktur MVP.
+Saya memilih menggunakan menggunakan arsitektur MVP karena File LP7 yang di ubah merupakan project kecil, lalu untuk presenter hanya memngelola satu view. Presenter ini memungkinkan untuk mengubah fitur-fitur tanpa mengganggu tampilan atau model yang ada.Karena filenya sedikit jadi saya pikir lebih mudah menggunakan arsitektur MVP gak usah mikirin ViewModelnya gimana. Satu lagi karena saya ingin mencoba menggunakan struktur MVP.
